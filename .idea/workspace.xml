@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3561b481-0f0f-4d00-aebd-573eae9d067d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/artifacts/overview_Web_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/artifacts/test_Web_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/jsp_servlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/WEB-INF/classes/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/WEB-INF/classes/Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/WEB-INF/classes/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/WEB-INF/classes/member/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/icon/ms-icon-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/request.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/overview_Web_exploded/response.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/test_Web_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/artifacts/test_Web_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/production/overview/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/out/production/overview/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/overview/overview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/overview/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jsp_servlet/overview/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/overview/web/request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/jsp_servlet/overview/web/request.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp_servlet/test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GO2QNCERtFnnJKYmmTizUCVRsG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/WorkSpace/Jsp_Servlet/jsp_servlet"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3561b481-0f0f-4d00-aebd-573eae9d067d" name="Changes" comment="" />
+      <created>1666245300882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666245300882</updated>
+      <workItem from="1666245304364" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

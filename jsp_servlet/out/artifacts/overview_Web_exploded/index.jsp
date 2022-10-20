@@ -57,17 +57,29 @@
                 out.print("</li>");
             }
 
-            // 나이를 구하는 average 함수를 정의해보시오.
-            // out.println("➡️ 나이 평균 : " + average(memberList));
+            // 나이 평균을 구하는 average 함수를 정의해보시오.
+            out.println("➡️ 나이 평균 : " + average(memberList));
+        %>
+        <p>코드의 수정</p>
+        <%!
+            public double average(List<Member> memberList) {
+                double avg = 0.0;
+                for (Member member : memberList) {
+                    avg += member.getAge();
+                }
+                return avg / memberList.size();
+            }
         %>
     </div>
 
-    <nav class="main__nav__next">
-        👉🏻<a href="request.jsp"><b> 다음 예제로 이동</b></a>
-    </nav>
+        <nav class="main__nav__next">
+            👉🏻<a href="request.jsp"><b> 다음 예제로 이동</b></a>
+        </nav>
 
 </main>
 
-<footer><jsp:include page="footer.jsp"/></footer>
+<footer>
+    <jsp:include page="footer.jsp"/>
+</footer>
 </body>
 </html>
