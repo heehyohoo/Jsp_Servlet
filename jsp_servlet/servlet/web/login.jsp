@@ -10,6 +10,13 @@
 <header>
     <jsp:include page="header.jsp"/>
 </header>
+
+<%
+    if (session.getAttribute("uId") != null) {
+        response.sendRedirect("./index.jsp");
+    }
+%>
+
 <%
 
     if (session.getAttribute("login") != null) {
@@ -57,6 +64,7 @@
 
             <div class="form__list">
                 <label for="uPw">PASSWORD: </label>
+                <%-- key-value (name-value)   --%>
                 <input type="password" id="uPw" name="uPw" placeholder="INPUT YOUR PASSWORD" required/>
             </div>
             <input type="submit" name="submit" value="Submit">

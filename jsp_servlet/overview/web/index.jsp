@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>JSP Title</title>
+    <title>JSP</title>
     <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -61,6 +61,8 @@
             out.println("➡️ 나이 평균 : " + average(memberList));
         %>
         <p>코드의 수정</p>
+
+        <%--  객체지향적인 코드가 아님 members.average(), average(members) --%>
         <%!
             public double average(List<Member> memberList) {
                 double avg = 0.0;

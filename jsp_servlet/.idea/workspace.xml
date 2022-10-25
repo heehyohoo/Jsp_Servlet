@@ -1,314 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="cookie:Web exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d40f6c3-c310-4bba-ae44-257b686132f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/KDT3_JSP_Servlet_Assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/DoLoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/DoLogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/DoSearchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/DoSignupServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/database/MemberDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/database/SearchDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/src/util/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/img/searchicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/search.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/survey.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KDT3_JSP_Servlet_Assignment1/servlet/web/surveyResult.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EL_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JSTL_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cookie_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javaBeans_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servlet_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/EL.iml" afterDir="false" />
+    <list default="true" id="b28f7744-0ed6-437d-af9e-4fb3d71aad5a" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/EL/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/src/simple/SimpleBeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/operator.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/request.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EL/web/response.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/JSTL.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JSTL/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/src/properties/msg_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/src/properties/msg_ko.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/src/simple/SimpleBeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/WEB-INF/lib/h2-2.1.214.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTags.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsFor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsIf.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsIfOnlyMain.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsImport.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsRedirect.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/core/coreTagsURL.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/format/formatTags.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/format/formatTagsDate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/format/formatTagsNumber.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/format/formatTagsProperty.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/functions/functionsTags.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/sql/sqlTags.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSTL/web/sql/sqlTagsUpdate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/cookie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/DoCookieServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/DoLoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/DoLogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/DoSignupServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cookie/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/database/MemberDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/member/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/src/util/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/cookie.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/img/searchicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/survey.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie/web/surveyResult.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/javaBeans.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/javaBeans/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/src/simple/SimpleBeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/request.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBeans/web/response.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/DoLoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/DoLogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/DoSearchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/DoSignupServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/servlet/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/database/MemberDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/database/SearchDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/src/util/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-36x36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/android-icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/ms-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/ms-icon-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/ms-icon-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/icon/ms-icon-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/img/searchicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/search.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/survey.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet/web/surveyResult.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,142 +20,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2GO2TfikfsvMspS3HIelPHd6kSw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2GZFU8R2bonnTG86JBM9FpecWZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/WorkSpace/Jsp_Servlet/KDT3_JSP_Servlet_Assignment1",
+    "last_opened_file_path": "C:/WorkSpace/Kdt3/fastcampus-kdt3.git/jsp_servlet",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.68 - cookie">
-    <configuration name="Tomcat 9.0.68 - EL" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="EL:Web exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/EL_Web_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="2651acbe-f3ca-46d2-9fa0-372aec6af4a7" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="13146" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="EL:Web exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.68 - JSTL" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="JSTL:Web exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/JSTL_Web_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="373c25e6-b0cf-4bd6-8edd-aee8571e9048" />
+        <option name="BASE_DIRECTORY_NAME" value="e69d67fc-3b0c-4573-b45f-5afbdd313e8c" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -461,7 +62,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="13145" />
+        <option name="DEBUG_PORT" value="13116" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -530,378 +131,18 @@
         </option>
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.68 - cookie" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="cookie:Web exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/cookie_Web_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="e1a92224-cdf2-4bc8-8bd7-0bbe61d57ee3" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="13144" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="cookie:Web exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.68 - directiveTag" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="directiveTag:Web exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/directiveTag_Web_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="15c41ecd-5e28-48d3-9ad0-29a68abb37df" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10891" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="directiveTag:Web exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.68 - implicitObject" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="implicitObject:Web exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/implicitObject_Web_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="79785d01-b647-4db4-8f26-ba8834df4f45" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="2425" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="implicitObject:Web exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="Tomcat 9.0.68 - overview" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="overview:Web exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/overview_Web_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="d1a89001-69f4-4840-a39f-61b4bb430f24" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10963" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="overview:Web exploded" />
-        </option>
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - directiveTag" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - overview" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - implicitObject" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - cookie" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - JSTL" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68 - EL" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d40f6c3-c310-4bba-ae44-257b686132f5" name="Changes" comment="" />
-      <created>1666245319233</created>
+      <changelist id="b28f7744-0ed6-437d-af9e-4fb3d71aad5a" name="Changes" comment="" />
+      <created>1666588211218</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666245319233</updated>
-      <workItem from="1666245320740" duration="470000" />
-      <workItem from="1666245865409" duration="1783000" />
-      <workItem from="1666247938522" duration="341000" />
-      <workItem from="1666588838545" duration="1178000" />
-      <workItem from="1666590045915" duration="61000" />
-      <workItem from="1666590123831" duration="2497000" />
-      <workItem from="1666598641400" duration="1805000" />
+      <updated>1666588211218</updated>
+      <workItem from="1666588212755" duration="30000" />
+      <workItem from="1666588320239" duration="511000" />
+      <workItem from="1666674282140" duration="30000" />
     </task>
     <servers />
   </component>
@@ -918,8 +159,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

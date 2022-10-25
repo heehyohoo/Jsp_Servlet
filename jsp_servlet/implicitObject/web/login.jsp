@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Request</title>
+  <title>JSP</title>
   <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -16,6 +16,7 @@
     <form method="post" action="session.jsp">
       <div class="form__list">
         <label for="uId">ID: </label>
+        <%-- key-value (name-value)   --%>
         <input type="text" id="uId" name="uId" placeholder="INPUT YOUR ID" pattern="[a-zA-Z]{1}[a-zA-Z0-9_-]{7,14}" required/>
       </div>
 

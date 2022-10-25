@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>JSP Title</title>
+    <title>JSP</title>
     <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -16,7 +16,7 @@
 <main>
     <%!
         static final String CURRENT_FILE = "includeDirective.jsp";
-        static final String FOOTER_FILE = "includeFooter.jsp";
+        //static final String FOOTER_FILE = "includeFooter.jsp";
     %>
     <div><%=CURRENT_FILE%></div>
 <%--    <div><%=FOOTER_FILE%></div>--%>

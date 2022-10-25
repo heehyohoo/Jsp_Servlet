@@ -1,10 +1,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page isErrorPage="true" %>
+<%-- exception 객체가 살고 있음 --%>
 
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Request</title>
+  <title>ERROR</title>
   <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>

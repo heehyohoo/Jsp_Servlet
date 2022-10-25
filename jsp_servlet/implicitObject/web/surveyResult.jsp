@@ -1,10 +1,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="java.util.*, phone.Phone" %>
+<%@ page import="java.util.*" %>
 
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Request</title>
+  <title>JSP</title>
   <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -13,15 +13,14 @@
 </header>
 
 <%
-
   request.setCharacterEncoding("UTF-8");
-  String uId = null;
+  String uId = "";
   if (session.getAttribute("uId") != null) {
     uId = (String) session.getAttribute("uId");
   }
 
 
-  String season = null;
+  String season = "";
   if (request.getParameter("season") != null) {
     season = request.getParameter("season");
   }

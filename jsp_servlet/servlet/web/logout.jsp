@@ -19,7 +19,6 @@
     }
 %>
 
-
 <main>
     <h1>LOGOUT</h1>
     <div>Hello! "<%=uId%>"</div>
