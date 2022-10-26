@@ -1,5 +1,6 @@
 import database.MemberDatabase;
 import member.Member;
+import util.Status;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -26,5 +27,32 @@ public class DoSignupServlet extends HttpServlet {
         // TODO: 회원가입 비지니스 로직 구현
         // 1) 회원가입 성공시 로그인 화면으로 돌아가기
         // 2) 회원가입 실패시 다시 signup 화면으로 돌아가기
+        request.setCharacterEncoding("UTF-8");
+
+        HttpSession session = request.getSession();
+
+        String uEmail = "";
+        if (request.getParameter("uEmail") != null) {
+            uEmail = request.getParameter("uEmail");
+        }
+
+        String uId = "";
+        if (request.getParameter("uId") != null) {
+            uId = request.getParameter("uId");
+        }
+
+        String uPw = "";
+        if (request.getParameter("uPw") != null) {
+            uPw = request.getParameter("uPw");
+        }
+        Member member = database.select(uId);
+        if(member == null){
+            database.getData().put(uId,new Member(uPw,uEmail));
+            session.setAttribute("signup", Status.SUCCESS);
+            response.sendRedirect("./login.jsp");
+        }else{
+            session.setAttribute("signup", Status.FAIL);
+            response.sendRedirect("./signup.jsp");
+        }
     }
 }

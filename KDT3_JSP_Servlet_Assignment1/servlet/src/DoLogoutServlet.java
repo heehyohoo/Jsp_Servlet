@@ -1,5 +1,3 @@
-import database.MemberDatabase;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -26,18 +24,5 @@ public class DoLogoutServlet extends HttpServlet {
         }
         session.invalidate();
         resp.sendRedirect("./login.jsp");
-    }
-
-    @WebServlet(name = "DoSignupServlet", value = "/DoSignupServlet")
-    public class DoSignupServlet extends HttpServlet {
-
-        final MemberDatabase database = MemberDatabase.getInstance();
-
-        @Override
-        protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-            // TODO: 회원가입 비지니스 로직 구현
-            // 1) 회원가입 성공시 로그인 화면으로 돌아가기
-            // 2) 회원가입 실패시 다시 signup 화면으로 돌아가기
-        }
     }
 }
