@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2cc76489-d02b-4cef-a563-fcd2762d0cfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileUpload/src/me/servlet/file/DoFileUploadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/fileUpload/src/me/servlet/file/DoFileUploadServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileUpload/src/me/servlet/file/DoMultiFileUploadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/fileUpload/src/me/servlet/file/DoMultiFileUploadServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/WorkSpace/Jsp_Servlet/jsp_servlet",
+    "last_opened_file_path": "C:/WorkSpace/Spring",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -178,6 +176,8 @@
       <workItem from="1666774191249" duration="382000" />
       <workItem from="1666779507834" duration="19000" />
       <workItem from="1666848506064" duration="4719000" />
+      <workItem from="1666933412028" duration="600000" />
+      <workItem from="1666934451509" duration="2065000" />
     </task>
     <servers />
   </component>
