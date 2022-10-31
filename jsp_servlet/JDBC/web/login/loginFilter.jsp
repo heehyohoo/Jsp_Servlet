@@ -1,4 +1,3 @@
-
 <%
     String uId = "";
     if (session.getAttribute("SESSION_ID") != null) {

@@ -11,8 +11,9 @@
             if (session.getAttribute(attributeName) == status) {
                 String msg = makeMessage(attributeName, status).toUpperCase();
                 out.write("<script>alert('" + msg + "!' )</script>");
+                session.removeAttribute(attributeName);
             }
-            session.removeAttribute(attributeName);
+
         }
 
     }

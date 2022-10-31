@@ -1,9 +1,11 @@
 package me.servlet.file;
 
 import com.oreilly.servlet.MultipartRequest;
+import com.oreilly.servlet.multipart.DefaultFileRenamePolicy;
 import me.java.file.FileInfo;
 import me.java.file.FilePost;
 import me.java.file.CustomRenamePolicy;
+import me.java.file.FilePostDAO;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
@@ -15,6 +17,7 @@ import javax.servlet.http.HttpSession;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.Enumeration;
 import java.util.LinkedList;
 import java.util.List;
@@ -26,23 +29,23 @@ public class DoMultiFileUploadServlet extends HttpServlet {
         request.setCharacterEncoding("UTF-8");
 
         HttpSession session = request.getSession();
-        String userId = "";
+        String userId  = "";
         if (session.getAttribute("SESSION_ID") != null) {
             userId = (String) session.getAttribute("SESSION_ID");
         }
 
         ///////////////////////////////// 파일 업로드 /////////////////////////////////
-        //upload 디렉토리 생성
-        String fullPath = null;
-        File dir = new File(fullPath);
-        if (!dir.exists()) {
-            dir.mkdir(); // make directory
-        }
 
         ServletContext servletContext = getServletContext();
         String uploadPath = servletContext.getRealPath("."); // 현재 서버가 실행 중인 위치
         String uploadFolder = "upload";
-        fullPath = uploadPath + File.separator + uploadFolder;
+        String fullPath = uploadPath + File.separator + uploadFolder;
+
+        // upload 디렉토리 생성
+        File dir = new File(fullPath);
+        if (!dir.exists()) {
+            dir.mkdir(); // make directory
+        }
 
         String encType = "UTF-8";
         int maxSize = 500 * 1024 * 1024; // 500mb (업로드할 파일 최대 크기)
@@ -60,7 +63,7 @@ public class DoMultiFileUploadServlet extends HttpServlet {
             String title = "";
             Enumeration<?> parameterNames = multipartRequest.getParameterNames();
             if (parameterNames.hasMoreElements()) {
-                String name = (String) parameterNames.nextElement();
+                String name = (String)parameterNames.nextElement();
                 String value = multipartRequest.getParameter(name);
                 title = value;
             }
@@ -93,9 +96,14 @@ public class DoMultiFileUploadServlet extends HttpServlet {
             filePost.setTitle(title);
             filePost.setFiles(fileInfoList);
 
-            session.setAttribute("filePost", filePost);
-            response.sendRedirect("./file/multiFileView.jsp");
-
+            FilePostDAO filePostDAO = FilePostDAO.getInstance();
+            int res = filePostDAO.insert(filePost);
+            if (res > 0) {
+                session.setAttribute("filePost", filePost);
+                response.sendRedirect("./file/multiFileView.jsp");
+            } else {
+                response.sendRedirect("./file/multiFileSelect.jsp");
+            }
         } catch (FileNotFoundException e) {
             new RuntimeException();
         } catch (IOException e) {
